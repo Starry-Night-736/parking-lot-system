@@ -10,7 +10,7 @@ The parking rules are as follows:
 * If the Parking Lot is full, cars are then assigned to the Lane
 * Cars in the Parking Lot are organized similarly to a “stack”, obeying the “LIFO” rule
 * Car number information is recorded as XYZZZZZ (X, Y - capital letters; Z - Arabic numbers or capital letters), i.e. CA48Z12
-* All cars ::in the Parking Lot:: will be charged ¥5 per hour
+* All cars **in the Parking Lot** will be charged ¥5 per hour
 
 ## Functions
 Functions of the system include:
