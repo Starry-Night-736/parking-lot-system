@@ -1,4 +1,4 @@
-# Parking-Lot-Management-System
+# Parking Lot System
 ## Description
 This project is a management system designed for parking lot entrance which also serves as a coding practice for “Data Structure” course.
 
